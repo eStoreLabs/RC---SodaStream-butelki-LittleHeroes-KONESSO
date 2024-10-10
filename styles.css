@@ -307,7 +307,7 @@
   align-items: center;
   max-height: 850px;
   min-height: 420px;
-  margin-bottom: 290px;
+  margin-bottom: 190px;
 }
 
 #es-sodastream.es-sodastream .es-slider__slide--last {
@@ -322,7 +322,7 @@
 }
 #es-sodastream.es-sodastream .es-slider__imgCtn {
   max-width: 300px;
-  margin-top: -300px;
+  margin-top: -200px;
 }
 #es-sodastream.es-sodastream .es-slider__subtitle {
   font-size: 20px;
